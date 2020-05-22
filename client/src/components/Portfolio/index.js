@@ -4,7 +4,7 @@ import "./style.css";
 // import codeMe from "../images/code.me.png";
 // import weather from "../images/weather.png";
 // import workday from "../images/workday-scheduler.png";
-import projects from "./projects.json";
+import projects from "./projects.js";
 
 
 function Portfolio() {
