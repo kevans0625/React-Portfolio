@@ -4,12 +4,12 @@ import React from "react";
 function Home() {
   return (
     <div>
-      <div class="cover-home container center center-align margin-bottom">
-        <div class="cover">
-            <div class="row">
-                <h2 class="center-align col-md-12">Hi, I am Kris, a full stack developer. I build and design responsive user interfaces.</h2>
+      <div className="cover-home container center center-align margin-bottom">
+        <div className="cover">
+            <div className="row">
+                <h2 className="center-align col-md-12">Hi, I am Kris, a full stack developer. I build and design responsive user interfaces.</h2>
                 <br></br>
-                <a href="/about" class=" btn">Enter Here <i class="material-icons">arrow_forward</i></a>
+                <a href="/about" className=" btn">Enter Here <i className="material-icons">arrow_forward</i></a>
             </div>
         </div>
       </div>
