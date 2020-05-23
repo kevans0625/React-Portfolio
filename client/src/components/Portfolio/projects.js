@@ -39,6 +39,22 @@ const Project = [
         "image": workday,
         "github": "https://github.com/kevans0625/Work-Day-Scheduler",
         "description": "This is a simple calendar app that allows users to save events for every hour of the work day. It runs in the browser and feature are dynamically updated with HTML and CSS powered by jQuery."
+      },
+      {
+        "id": 5,
+        "title": "Note Taker",
+        "preview": "https://kevans0625.github.io/Work-Day-Scheduler/",
+        "image": workday,
+        "github": "https://github.com/kevans0625/Work-Day-Scheduler",
+        "description": "This is a simple calendar app that allows users to save events for every hour of the work day. It runs in the browser and feature are dynamically updated with HTML and CSS powered by jQuery."
+      },
+      {
+        "id": 6,
+        "title": "Workday Scheduler",
+        "preview": "https://kevans0625.github.io/Work-Day-Scheduler/",
+        "image": workday,
+        "github": "https://github.com/kevans0625/Work-Day-Scheduler",
+        "description": "This is a simple calendar app that allows users to save events for every hour of the work day. It runs in the browser and feature are dynamically updated with HTML and CSS powered by jQuery."
       }
 
   ]
