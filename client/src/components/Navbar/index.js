@@ -20,7 +20,7 @@ function Navbar() {
         <li><a href="https://github.com/kevans0625"><i className="fab fa-github"></i></a></li>
         <li><a href="https://drive.google.com/file/d/1Lo6CdplJ6j6gN15EGSMPqNsB4wg1_jAp/view?usp=sharing"><i className="far fa-file-pdf"></i></a></li>
     </ul>
-    <a href="/" data-target="slide-out" className="sidenav-trigger right"><i className="material-icons">menu</i></a>
+    <a href="/" data-target="slide-out" className="sidenav-trigger button-collapse right"><i className="material-icons">menu</i></a>
 </div>
   </nav>
   <ul className="sidenav" id="mobile-demo">
