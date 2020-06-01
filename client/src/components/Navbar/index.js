@@ -6,7 +6,7 @@ function Navbar() {
 <div>
 <nav>
 <div className="nav-wrapper">
-    <a href="/" className="brand-logo center">Kristin Evans</a>
+    <a href="/" className="brand-logo center"></a>
       {/* <a href="/" data-target="mobile-demo" className="sidenav-trigger"><i className="material-icons">menu</i></a>    */}
     <ul id="nav-mobile" className="left hide-on-med-and-down">
         <li><a href="/about">ABOUT<i className="material-icons">person</i></a></li>
