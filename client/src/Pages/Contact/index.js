@@ -7,7 +7,7 @@ function Contact() {
     <div className="margin-bottom ">
     <div className="container cover">
      <div className="row left">
-         <h3 className="center-align col">PORTFOLIO</h3>
+         <h3 className="center-align col">Contact Me</h3>
      </div>
      </div>
      <br/> 
