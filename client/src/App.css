@@ -142,6 +142,10 @@ footer {
 * About
 */
 
+h2 {
+    font-family: 'PT Serif', ;
+    color: #AF4925;
+}
 h3 {
     font-family: 'PT Serif', ;
     color: #2d3d52;
@@ -214,3 +218,8 @@ input {
     color: rgba(255, 255, 255, .5);
 }
 
+.home-icons {
+    color: #bfbfbf4d!important;
+    margin-left: 70px;
+    font-size: 104px!important;
+}
