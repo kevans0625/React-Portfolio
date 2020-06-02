@@ -6,7 +6,7 @@ function Home() {
     <div>
         <div className="container">
             <div className="row">
-                <h2 className="center-align col-md-12">Hi, I am Kris, a full stack developer. I build and design responsive user interfaces.</h2>
+                <h2 className=" col-md-12">Hi, I am Kris, a full stack developer. I build and design responsive user interfaces.</h2>
         </div>
       {/* <div className="cover"> */}
             <div className="row">

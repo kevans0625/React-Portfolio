@@ -12,7 +12,7 @@ function Portfolio() {
     <div className="margin-bottom ">
     <div className="container cover">
      <div className="row left">
-         <h3 className="center-align col">PORTFOLIO</h3>
+         <h3 className="center-align col">Portfolio</h3>
      </div>
      </div>
      <br/> 
