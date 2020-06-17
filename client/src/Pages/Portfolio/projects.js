@@ -4,8 +4,17 @@ import codeMe from "../../components/images/code.me.png";
 import weather from "../../components/images/weather.png";
 import workday from "../../components/images/workday-scheduler.png";
 import book from "../../components/images/Google_Book.png"
+import LouVr3d from "../../components/images/LouVr3d.png"
 
 const Project = [
+  {
+    "id": 6,
+    "title": "Le LouVr3d",
+    "preview": "https://louvr3d.herokuapp.com/",
+    "image": LouVr3d,
+    "github": "https://github.com/kevans0625/louvr3d",
+    "description": "This is a full-stack MERN application designed to allow people to exhibit objects of historical, scientific, artistic, or cultural interest. The objects are stored and can be exhibited in a 3D room.."
+  },
     {
       "id": 5,
       "title": "Google Book Search",
