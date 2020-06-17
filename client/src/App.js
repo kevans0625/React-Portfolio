@@ -7,7 +7,7 @@ import Contact from "./Pages/Contact";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import './App.css';
-import Skills from './Pages/Skills';
+import Skills from './Pages/Skills/index.js';
 
 function App() {
   return (
