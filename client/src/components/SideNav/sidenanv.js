@@ -44,10 +44,11 @@ class Sidenav extends Component {
             </div>
           </li>
           
-      <li><a href="/about">ABOUT<i className="material-icons">person</i></a></li>
-        <li><a href="/portfolio">PORTFOLIO<i className="material-icons">perm_media</i></a></li>
-        <li><a href="/contact">CONTACT<i className="material-icons">email</i></a></li>
-        <li>
+          <li><a href="/about"><i class="fas fa-user-shield"></i>  ABOUT</a></li>
+        <li><a href="/skills"><i class="fas fa-tools"></i> SKILLS</a></li>
+        <li><a href="/portfolio"><i class="fas fa-briefcase"></i>  PORTFOLIO</a></li>
+        <li><a href="/contact"><i class="fas fa-envelope-open-text"></i>  CONTACT</a></li>
+   <li>
             <div className="divider" />
           </li>
         <li><a href="https://www.linkedin.com/in/kristinevans/">Linkedin<i className="fab fa-linkedin"></i></a>

@@ -219,7 +219,12 @@ input {
 }
 
 .home-icons {
-    color: #928f8f79!important;
-    margin-left: 50px;
+    color:  #2D3D52!important;
+    margin: 50px;
     font-size: 84px!important;
+}
+.percentages {
+    margin: 50px;
+    color:  #2D3D52!important;
+    font-size: 24px!important;
 }
